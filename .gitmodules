@@ -1,0 +1,6 @@
+[submodule "mave"]
+	path = mave
+	url = git@github.com:raffomania/mave.git
+[submodule "shaperape"]
+	path = shaperape
+	url = git@github.com:nukesor/shaperape.git
