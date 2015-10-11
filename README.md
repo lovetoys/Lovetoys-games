@@ -1,6 +1,6 @@
 # Lovetoys-games
 
-This is a small collection of games using lovetoys. They have been created on game jams or as a private hobby project.
+This is a compilation of games made using Lovetoys. If you made one yourself, please do open a pull request!
 
 ## Installation
 
