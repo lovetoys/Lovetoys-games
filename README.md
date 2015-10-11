@@ -18,6 +18,6 @@ This game was created during Global Game Jam 2014. It's fast-paced action arcade
 
 ![MAVE](https://raw.github.com/raffomania/MAVE/master/data/gfx/menu/logo.png)
 
-Mave is a private Project of [Nukesor](https://github.com/Nukesor) and [Raffomania](https://github.com/raffomania). The game isn't finished and development is appointed, but the game is still maintained. It's just a really bad game, but the code is quite good. Give it a look at Raffomanias [repository](https://github.com/raffomania/mave).
+Mave is a private Project of [Nukesor](https://github.com/Nukesor) and [Raffomania](https://github.com/raffomania). The game isn't finished and development is appointed, but the game is still maintained. It's not really fun to play (yet), but the code is quite good. Give it a look at Raffomanias [repository](https://github.com/raffomania/mave).
 
 
