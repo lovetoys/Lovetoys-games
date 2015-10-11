@@ -10,7 +10,7 @@ This is a compilation of games made using Lovetoys. If you made one yourself, pl
 
 ## ShapeRape
 
-This game was created during Global Game Jam 2014. It's fast-paced action arcade game written by [Nukesor](https://github.com/Nukesor), [Raffomania](https://github.com/raffomania), [C-gotoh](https://github.com/C-gotoh) and [Anne-Victoria](https://github.com/Anne-Victoria). The game is quite fun and a little challenging. If you're still interested visit the [Repository](https://github.com/Nukesor/shapeRape) or check the [GGJ website](http://globalgamejam.org/2014/games/shaperape).
+This game was created during Global Game Jam 2014. It's fast-paced action arcade game written by [Nukesor](https://github.com/Nukesor), [Raffomania](https://github.com/raffomania), [C-gotoh](https://github.com/C-gotoh) and [Anne-Victoria](https://github.com/Anne-Victoria). The game is quite fun and a little challenging. If you're interested visit the [Repository](https://github.com/Nukesor/shapeRape) or check the [GGJ website](http://globalgamejam.org/2014/games/shaperape).
 
 ![ShapeRape](http://globalgamejam.org/sites/default/files/styles/game_content__wide/public/games/screenshots/gameplay_big_2.png?itok=FOozb7pU)
 
